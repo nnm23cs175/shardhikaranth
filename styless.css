@@ -1,0 +1,24 @@
+body{
+    font-family: Arial,sans-serif;
+    margin:auto;
+    padding:10%;
+}
+header{
+    background-color: #333;
+    color:#fff;
+    align-items: center;
+}
+footer{
+    background-color: #333;
+    color: #fff;
+    align-items: center;
+    margin-bottom: 10%;
+}
+main{
+    align-items: center;
+    margin:30px;
+}
+.photo{
+    width:auto;
+    height: auto;
+}
